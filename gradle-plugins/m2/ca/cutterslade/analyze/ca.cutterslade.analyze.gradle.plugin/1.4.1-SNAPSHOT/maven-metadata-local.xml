@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>ca.cutterslade.analyze</groupId>
+  <artifactId>ca.cutterslade.analyze.gradle.plugin</artifactId>
+  <version>1.4.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20200410043948</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.4.1-SNAPSHOT</value>
+        <updated>20200410043948</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

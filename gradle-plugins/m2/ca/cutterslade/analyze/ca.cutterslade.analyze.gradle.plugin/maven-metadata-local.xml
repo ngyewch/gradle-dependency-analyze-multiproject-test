@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ca.cutterslade.analyze</groupId>
+  <artifactId>ca.cutterslade.analyze.gradle.plugin</artifactId>
+  <versioning>
+    <latest>1.4.1-SNAPSHOT</latest>
+    <versions>
+      <version>1.4.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200410043948</lastUpdated>
+  </versioning>
+</metadata>

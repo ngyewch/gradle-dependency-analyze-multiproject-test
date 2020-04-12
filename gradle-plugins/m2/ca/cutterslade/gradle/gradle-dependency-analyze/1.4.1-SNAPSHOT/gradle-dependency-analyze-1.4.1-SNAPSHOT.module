@@ -1,0 +1,79 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ca.cutterslade.gradle",
+    "module": "gradle-dependency-analyze",
+    "version": "1.4.1-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.2",
+      "buildId": "4zkytvqz35grhlp6rmlzv5wssi"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.maven.shared",
+          "module": "maven-dependency-analyzer",
+          "version": {
+            "requires": "1.11.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "gradle-dependency-analyze-1.4.1-SNAPSHOT.jar",
+          "url": "gradle-dependency-analyze-1.4.1-SNAPSHOT.jar",
+          "size": 60316,
+          "sha512": "40a356eba91d4f5dba173245b3f98462830d1bde6d0ca672be946ac53b62d130783db4dbedb0d9bb01629e27d2b567fc5f9f6866309b23212badd94fe4129297",
+          "sha256": "d88036d6bbe497adc42d62d29a13c5304ac7449c05400b9dbf24f745d8244fa4",
+          "sha1": "1c4fa3a84f4257e54596f0157bd3ed260aac8e4d",
+          "md5": "bd98b5c1fa46b3d062231f9d0d2194d3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.maven.shared",
+          "module": "maven-dependency-analyzer",
+          "version": {
+            "requires": "1.11.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "gradle-dependency-analyze-1.4.1-SNAPSHOT.jar",
+          "url": "gradle-dependency-analyze-1.4.1-SNAPSHOT.jar",
+          "size": 60316,
+          "sha512": "40a356eba91d4f5dba173245b3f98462830d1bde6d0ca672be946ac53b62d130783db4dbedb0d9bb01629e27d2b567fc5f9f6866309b23212badd94fe4129297",
+          "sha256": "d88036d6bbe497adc42d62d29a13c5304ac7449c05400b9dbf24f745d8244fa4",
+          "sha1": "1c4fa3a84f4257e54596f0157bd3ed260aac8e4d",
+          "md5": "bd98b5c1fa46b3d062231f9d0d2194d3"
+        }
+      ]
+    }
+  ]
+}
